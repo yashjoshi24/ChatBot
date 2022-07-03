@@ -1,0 +1,139 @@
+{
+   "intents":[
+      {
+         "tag":"greeting",
+         "patterns":[
+            "Hi",
+            "How are you?",
+            "Hey",
+            "Hello"
+         ],
+         "responses":[
+            "Hello, thanks for asking",
+            "Hi there, how can I help?"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"goodbye",
+         "patterns":[
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Nice chatting to you, bye"
+         ],
+         "responses":[
+            "See you!",
+            "Have a nice day"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"thanks",
+         "patterns":[
+            "Thank You",
+            "Thanks",
+            "Thanks a lot"
+         ],
+         "responses":[
+            "Welcome.",
+            "Any time",
+            "My Pleasure"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"noanswer",
+         "patterns":[
+            
+         ],
+         "responses":[
+            "Sorry, can't understand you",
+            "Please give me more info"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"options",
+         "patterns":[
+            "How you could help me?",
+            "What you can do?",
+            "How can you be helpful?"
+         ],
+         "responses":[
+            "I am a bot who answers FAQs realted to different departments of GEHU"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ques",
+         "patterns":[
+            "WHAT IS THE ELIGIBILITY CRITERIA TO TAKE ADMISSION IN B.B.A. LL.B (HONS) IN GRAPHIC ERA HILL UNIVERSITY?"
+         ],
+         "responses":[
+            "The eligibility criteria for taking admission in B.B.A. L.L.B(Hons) is 10+2 in any  stream with minimum 50% along with Merit prepared on the basis of qualifying exams and interviews."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ques_2",
+         "patterns":[
+            "DOES THE UNIVERSITY PROVIDE TRANSPORT FACILITY FOR THE DAY SCHOLARS?"
+         ],
+         "responses":[
+            "College buses pickup and drop day-scholars from specified locations in Dehradun city and en-route, on payment of a nominal fee. City bus facility is also available from college gate to city from morning 7.00 a.m. to evening 9.00 p.m. at frequent intervals of 15 minutes."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ques_3",
+         "patterns":[
+            "DOES THE UNIVERSITY PROVIDE HOSTEL FACILITIES FOR THE OUTSTATION STUDENTS?"
+         ],
+         "responses":[
+            "Separate hostels are provided for girls and boys at GEHU. Students are provided with adequate facilities to make them feel at home. Their stay in the hostel enables them to imbibe a different lifestyle and involve themselves in activities including yoga, meditation, sports, music etc., suiting individuals taste and preferences. The hostels have the capacity to comfortably accommodate over 1500 students. Every effort is made that the hostellers get a homely ambience by providing them a home away from home."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ques_4",
+         "patterns":[
+            "WHAT IS THE ELIGIBILITY CRITERIA TO TAKE ADMISSION IN B.A. (HONS) ENGLISH IN GRAPHIC ERA HILL UNIVERSITY?"
+         ],
+         "responses":[
+            "The eligibility criteria for taking admission in B.A.(Hons) English is 10+2 in any stream with minimum 50% along with Merit prepared on the basis of qualifying exams and interviews."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ques_5",
+         "patterns":[
+            "WHAT IS THE ELIGIBILITY CRITERIA TO TAKE ADMISSION IN M.A. JOURNALISM AND MASS COMMUNICATION IN GRAPHIC ERA HILL UNIVERSITY?"
+         ],
+         "responses":[
+            "The eligibility criteria for taking admission in M.A. Journalism and Mass Communication is graduation in any stream along with Merit on the basis of qualifying exams."
+         ],
+         "context":[
+            ""
+         ]
+      }
+   ]
+}
